@@ -1,0 +1,106 @@
+//{
+//  "student": [
+//    {
+//      "id": "b5c7",
+//      "name": "Phạm Thị Hạnh",
+//      "address": "Thành phố Hà Nội",
+//      "mark": "6",
+//      "academicPerformance": {
+//        "id": 4,
+//        "name": "Trung Bình"
+//      }
+//    },
+//    {
+//      "id": "34ed",
+//      "name": "Đỗ Trung Kiên Định",
+//      "address": "Đ. Bạch Đằng, Quận Hoàn Kiếm, Hà Nội",
+//      "mark": "9.5",
+//      "academicPerformance": {
+//        "id": 1,
+//        "name": "Giỏi"
+//      }
+//    },
+//    {
+//      "id": "fa12",
+//      "name": "Lê Thị Nhung",
+//      "address": "Thành phố Huế",
+//      "mark": "2",
+//      "academicPerformance": {
+//        "id": 5,
+//        "name": "Yếu"
+//      }
+//    },
+//    {
+//      "id": "2b19",
+//      "name": "Trần Văn Toàn",
+//      "address": "Đ. Nguyễn Văn Linh, Đà Nẵng",
+//      "mark": "5",
+//      "academicPerformance": {
+//        "id": 4,
+//        "name": "Trung Bình"
+//      }
+//    },
+//    {
+//      "id": "6b8e",
+//      "name": "Nguyễn Thị Hương",
+//      "address": "Thành phố Nha Trang",
+//      "mark": "6.5",
+//      "academicPerformance": {
+//        "id": 4,
+//        "name": "Trung Bình"
+//      }
+//    },
+//    {
+//      "id": "0761",
+//      "name": "Trịnh Thăng Bình",
+//      "address": "Singapore",
+//      "mark": "8.9",
+//      "academicPerformance": {
+//        "id": "2",
+//        "name": "Giỏi"
+//      }
+//    },
+//    {
+//      "id": "05a0",
+//      "name": "John William ",
+//      "address": "Singapore",
+//      "mark": "1",
+//      "academicPerformance": {
+//        "id": "5",
+//        "name": "Yếu"
+//      }
+//    },
+//    {
+//      "id": "a4ff",
+//      "name": "Nguyen Thi Yen Nhi 123",
+//      "address": "Quận Cẩm Lệ",
+//      "mark": "8.9",
+//      "academicPerformance": {
+//        "id": "3",
+//        "name": "Khá"
+//      }
+//    }
+//  ],
+//  "academicPerformances": [
+//    {
+//      "id": "1",
+//      "name": "Xuất sắc"
+//    },
+//    {
+//      "id": "2",
+//      "name": "Giỏi"
+//    },
+//    {
+//      "id": "3",
+//      "name": "Khá"
+//    },
+//    {
+//      "id": "4",
+//      "name": "Trung bình"
+//    },
+//    {
+//      "id": "5",
+//      "name": "Yếu"
+//    }
+//  ]
+//}
